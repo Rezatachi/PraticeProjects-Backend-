@@ -1,17 +1,5 @@
 
 question_data = [
-    {"text": "A slug's blood is green.", "answer": "True"},
-    {"text": "The loudest animal is the African Elephant.", "answer": "False"},
-    {"text": "Approximately one quarter of human bones are in the feet.",
-     "answer": "True"},
-    {"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
-    {"text": "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", "answer": "True"},
-    {"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.", "answer": "False"},
-    {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
-    {"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
-    {"text": "Google was originally called 'Backrub'.", "answer": "True"},
-    {"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
-    {"text": "No piece of square dry paper can be folded in half more than 7 times.",
-     "answer": "False"},
-    {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+    {"category": "Entertainment: Cartoon & Animations", "type": "boolean", "difficulty": "easy", "question": "In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.", "correct_answer": "True", "incorrect_answers": ["False"]}, {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "easy", "question": "Which of these levels does NOT appear in the console\/PC versions of the game &quot;Sonic Generations&quot;?", "correct_answer": "Mushroom Hill", "incorrect_answers": ["City Escape", "Planet Wisp", "Sky Sanctuary"]}, {"category": "Science & Nature", "type": "multiple", "difficulty": "easy", "question": "Who is the chemical element Curium named after?", "correct_answer": "Marie &amp; Pierre Curie", "incorrect_answers": ["The Curiosity Rover", "Curious George", "Stephen Curry"]}, {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "easy", "question": "What&#039;s the Team Fortress 2 Scout&#039;s city of origin?", "correct_answer": "Boston", "incorrect_answers": ["Sydney", "Detroit", "New York"]}, {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "easy", "question": "What company created and developed the game &quot;Overwatch&quot;?", "correct_answer": "Blizzard Entertainment", "incorrect_answers": ["Valve", "Hi-Rez Studios", "Gearbox Software"]}, {
+        "category": "Entertainment: Television", "type": "multiple", "difficulty": "easy", "question": "What country is Cory in the House set in?", "correct_answer": "The United States of America", "incorrect_answers": ["Canada", "Venezuala", "England"]}, {"category": "Entertainment: Music", "type": "multiple", "difficulty": "easy", "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?", "correct_answer": "Watch the Throne", "incorrect_answers": ["Distant Relatives", "What a Time to be Alive", "Unfinished Business"]}, {"category": "Entertainment: Cartoon & Animations", "type": "multiple", "difficulty": "easy", "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?", "correct_answer": "Lilo", "incorrect_answers": ["Lolo", "Lucy", "Lulu"]}, {"category": "Entertainment: Video Games", "type": "multiple", "difficulty": "easy", "question": "What were the first two blocks in &quot;Minecraft&quot;?", "correct_answer": "Grass and Cobblestone", "incorrect_answers": ["Grass and Stone", "Crafting Table and Cobblestone", "Cobblestone and Stone"]}, {"category": "Entertainment: Musicals & Theatres", "type": "multiple", "difficulty": "easy", "question": "What is Jean ValJean&#039;s first prisoner number?", "correct_answer": "24601", "incorrect_answers": ["9430", "1729", "32769"]}
 ]
