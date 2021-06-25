@@ -22,6 +22,7 @@ piano_keys = [2, 5, 2, 312, 3, 12, 31, 23, 1, 23, 1, 2, 3, 12, 3, 1, 23, ]
 print(piano_keys[::-1])
 # Reverse an array
 
-piano_tuple = (2, 5, 2, 312, 3, 12, 31, 23, 1, 23, 1, 2, 3, 12, 3, 1, 23,)
+piano_tuple = ([2, 5, 2, 312, 3, 12, 31, 23, 1, 23,
+               1, 2, 3, 12, 3, 1, 23], [1, 3, 2, 4])
 print(piano_tuple[::-1])
 # Reverse a tuple
